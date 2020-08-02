@@ -29,5 +29,5 @@ You can disconnect from the server by typing:
 logout You can again reconnect by using the login command
 You can terminate the client by typing:
 
-## Termination COmmand:
+## Termination Command:
 exit
